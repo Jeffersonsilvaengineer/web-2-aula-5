@@ -1,0 +1,4 @@
+Nome,Idade,Cidade
+Ana,22,Barretos
+Bruno,25,São Paulo
+Carla,20,Ribeirão Preto
